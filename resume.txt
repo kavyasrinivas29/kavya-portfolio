@@ -1,0 +1,20 @@
+Resume placeholder
+
+Computer Science Engineering student specializing in Cybersecurity and IoT.
+Interested in SOC, vulnerability assessment, penetration testing, and network security.
+
+Projects:
+- OWASP Juice Shop Penetration Testing
+- SQL Injection Analysis using DVWA
+- Network Vulnerability Assessment using OpenVAS
+- Network Scanning & Traffic Analysis using Nmap and Wireshark
+- Smart Door Access System
+
+Internship:
+- Network Engineer Intern
+
+Achievements:
+- Women-only Cybersecurity Bootcamp
+- CTF participation
+- Hackathon participation
+- Volunteer experience
